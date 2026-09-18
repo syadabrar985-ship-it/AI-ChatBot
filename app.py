@@ -1,4 +1,3 @@
-```python
 import os
 import re
 import time
@@ -797,4 +796,3 @@ if question:
                 "sources": [],
             }
         )
-```
